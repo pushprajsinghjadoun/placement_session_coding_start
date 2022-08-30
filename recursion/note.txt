@@ -1,0 +1,7 @@
+1. find out the smallest subproblem for which we know the ans
+2. assume that for given problem recursively , cal a subproblem
+3. selfwork
+
+
+space complexitiy is defined as the max space allocated at any point of time during excution of the process
+
