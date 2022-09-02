@@ -1,3 +1,8 @@
 backtraking = it is an algorithm that tries to find a solution for given parameters recursuely where it build up some candidate solution & abundens the ones which don't fulfull it.
 
 it ensure that whenever we are explore a new path for a solution we have original problem in the original state. 
+
+
+What is pruning
+
+pruning is in the context with abandaning those sub problems which never lead to a successful answer.
