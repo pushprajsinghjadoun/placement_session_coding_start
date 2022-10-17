@@ -7,8 +7,8 @@ class add
     public:
     add(int a1, int b1)
     {
-        this->a = a1;
-        this->b = b1;
+        a = a1;
+        b = b1;
     }
     
     add operator+(add c)
