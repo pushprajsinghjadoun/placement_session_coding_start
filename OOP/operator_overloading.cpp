@@ -20,7 +20,7 @@ class add
         cout<<this->a<<" "<<this->b<<endl;
     }
 };
-
+ 
 int main()
 {
     add o(2,3);
